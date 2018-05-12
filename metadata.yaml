@@ -1,0 +1,26 @@
+_repo: Natural-Man_43728
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moss, Arthur B.
+    birthdate: 1855
+    gutenberg_agent_id: '38170'
+    url: http://www.gutenberg.org/2009/agents/38170
+description: ''
+gutenberg_issued: '2013-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43728'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rationalism'
+- !lcc 'BL'
+- !lcsh 'Human beings -- Origin'
+title: Natural Man
+url: http://www.gutenberg.org/ebooks/43728
